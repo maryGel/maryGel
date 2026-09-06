@@ -35,4 +35,4 @@ Interactive task management application built with React.
 
 10+ years of experience across IT support, enterprise systems, SAP, business analysis, software testing, and technical troubleshooting.
 
-That last part is particularly valuable for you because your background is unusual for a junior developer. Your CV already shows that combination of enterprise IT + development.
+I'm currently expanding my skills in backend development and building full-stack applications with modern web technologies.
