@@ -11,6 +11,7 @@ I enjoy building practical web applications and solving business problems throug
 
 
 Frontend: React, JavaScript, HTML, CSS, Tailwind, MUI
+
 Backend: Node.js, Express.js, REST APIs
 Database: MySQL
 
